@@ -7,7 +7,7 @@
         Total chances in set A = {1,2,3,4,5} = 5
         Total chances in set B = {1,2,3,4,5} = 5
         So, total chances in Relations : 5*5 = 25
-    So, There are 25 Ways to Convert in PyMemory Convertor.
+    So, There are 50 Ways to Convert in PyMemory Convertor.
 
     This is a program which helps you to perform basic arithmetic operations on any number system using string formatting
     and other methods like converting a number into integer with different base (16,8,2) and using in-built arithmetic
